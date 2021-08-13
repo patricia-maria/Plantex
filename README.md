@@ -1,2 +1,2 @@
-# Plantex
+# Plantei
 plantex iniciante
