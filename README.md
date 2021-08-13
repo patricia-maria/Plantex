@@ -1,2 +1,2 @@
 # Plantei
-plantex iniciante
+plantei iniciante
